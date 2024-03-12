@@ -1,7 +1,8 @@
 public class Class1 {
     public static void main(String[] args) {
 
-        System.out.println("First note");
+        System.out.println("First git note");
+        System.out.println("second note");
 
 
 
