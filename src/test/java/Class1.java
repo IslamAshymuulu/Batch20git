@@ -5,8 +5,8 @@ public class Class1 {
         System.out.println("second note");
         System.out.println("On branch br1");
         System.out.println("git stash");
-        System.out.println("on master");
-        System.out.println("new code");
+        System.out.println("git stash from br1");
+        System.out.println("check the stash");
 
 
 
