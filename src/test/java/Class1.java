@@ -4,7 +4,7 @@ public class Class1 {
         System.out.println("First git note");
         System.out.println("second note");
         System.out.println("On branch br1");
-        System.out.println("git stash");
+
 
 
 
